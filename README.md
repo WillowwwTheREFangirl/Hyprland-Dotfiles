@@ -1,7 +1,7 @@
 # Hyprland-Dotfiles
 A config of all my dotfiles for Hyprland. should work for any arch-based distro.
 
-This repository includes configuration for:
+This repository includes configurations for the following:
 
     Window Managers: Hyprland
     Terminals: ghostty
@@ -17,6 +17,9 @@ This repository includes configuration for:
 
 File Structure
 
+### Project Structure
+
+```text
 .
 ├── .config/
 │   ├── cava/
@@ -31,9 +34,8 @@ File Structure
 │   ├── viegphunt/      # Personal scripts
 │   ├── waybar/
 │   └── wlogout/
-├── .stow-local-ignore  # Stow ignore list
+├── .stow-local-ignore # Stow ignore list
 ├── .tmux.conf
 ├── .zshrc
-├── LICENSE             # License
-└── README.md           # This file
-.
+├── LICENSE            # License
+└── README.md          # This file
