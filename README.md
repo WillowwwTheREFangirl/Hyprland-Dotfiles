@@ -36,3 +36,4 @@ File Structure
 ├── .zshrc
 ├── LICENSE             # License
 └── README.md           # This file
+.
