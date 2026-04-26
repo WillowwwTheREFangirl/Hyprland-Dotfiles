@@ -30,7 +30,7 @@ This repository includes configurations for the following:
 │   ├── ohmyposh/
 │   ├── rofi/
 │   ├── swaync/
-│   ├── viegphunt/      # Personal scripts
+│   ├── personal/      # Personal scripts
 │   ├── waybar/
 │   └── wlogout/
 ├── .stow-local-ignore # Stow ignore list
