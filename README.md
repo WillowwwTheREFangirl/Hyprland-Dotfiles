@@ -15,9 +15,8 @@ This repository includes configurations for the following:
     Logout menu: wlogout
     Audio visualizer: cava
 
-File Structure
 
-### Project Structure
+### Structure
 
 ```text
 .
